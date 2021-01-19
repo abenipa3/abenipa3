@@ -1,12 +1,12 @@
 ### Hello 👋
 
-[![Alyssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssabenipayo)](https://github.com/alyssabenipayo/github-readme-stats)
+![Alyssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssabenipayo&hide=stars,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact)](https://github.com/alyssabenipayo/github-readme-stats)
 
 - 🌱 Currently practicing - HTML/HTML5, CSS, SCSS, Javascript
-- 🛠 Tools: GitHub, Slack
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🧰 Skills: HTML/HTML5, CSS, SCSS, Java, Python, SQL, Tableau
+- 🥅 2021 Goals: Master FrontEnd Languages
 - ☕ Open to learning more!
 ---
 ### Connect with me:
