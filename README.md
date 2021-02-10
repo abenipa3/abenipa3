@@ -12,6 +12,6 @@
 ### Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/alyssabenipayo/)
-- [Portfolio] (https://alyssabenipayo.github.io/)
+- [Portfolio](https://alyssabenipayo.github.io/)
 
 
