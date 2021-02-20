@@ -6,7 +6,7 @@
 
 - 🌱 Currently Practicing - SASS, Javascript
 - 🧰 Skills: HTML/HTML5, CSS/SCSS, Java, Python, SQL, Tableau
-- 🥅 2021 Goal: Contribute to More Open Source Projects
+- 🥅 2021 Goal: Master Frontend Development Skills
 - ☕ Open to learning more!
 ---
 ### Connect with me:
