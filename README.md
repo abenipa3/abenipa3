@@ -7,7 +7,7 @@
 - 🌱 Currently Practicing - SASS, Javascript
 - 🧰 Skills: HTML/HTML5, CSS/SCSS, Java, Python, SQL, Tableau
 - 🥅 2021 Goal: Master Frontend Development Skills and Continue Building My Portfolio
-- ☕ Open to learning more!
+- ☕ Currently a Developer at Hack for LA! Open to learning more!
 ---
 ### Connect with me:
 - [Email](mailto:alymaebenipayo@gmail.com)
