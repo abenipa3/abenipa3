@@ -4,10 +4,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact)](https://github.com/alyssabenipayo/github-readme-stats)
 
-- 🌱 Currently Practicing - SASS, Javascript
+- 🌱 Currently working with Hack for LA's Website Team as a Frontend Developer
 - 🧰 Skills: HTML/HTML5, CSS/SCSS, Java, Python, SQL, Tableau
-- 🥅 2021 Goal: Master Frontend Development Skills and Continue Building My Portfolio
-- ☕ Currently a Developer at Hack for LA! Open to learning more!
+- 🥅 2021 Goal: Continue Building My Portfolio
+- ☕ Open to learning more!
 ---
 ### Connect with me:
 - [Email](mailto:alymaebenipayo@gmail.com)
