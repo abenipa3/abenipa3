@@ -6,7 +6,7 @@
 
 - 🌱 Currently working with Hack for LA's Website Team as a Frontend Developer
 - 🧰 Skills: HTML/HTML5, CSS/SCSS, Java, Python, SQL, Tableau
-- 🥅 2021 Goal: Continue Building My Portfolio
+- 🥅 2021 Goal: Continue To Build My Portfolio
 - ☕ Open to learning more!
 ---
 ### Connect with me:
