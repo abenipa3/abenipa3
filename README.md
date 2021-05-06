@@ -13,6 +13,6 @@
 - [Email](mailto:alymaebenipayo@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alyssabenipayo/)
 - [Portfolio](https://alyssabenipayo.github.io/)
-- [Dribble](https://dribbble.com/ABCreates)
+- [Dribbble](https://dribbble.com/ABCreates)
 
 
