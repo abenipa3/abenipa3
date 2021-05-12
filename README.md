@@ -4,8 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact)](https://github.com/alyssabenipayo/github-readme-stats)
 
-- 🌱 UX/UI Designer with a background in FrontEnd Development
-- 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS, Java, Python, SQL, Tableau
+- 🌱 Developer + UI/UX Designer
+- 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
 - 🥅 2021 Goal: Continue To Build My Portfolio
 - ☕ Open to learning more!
 ---
