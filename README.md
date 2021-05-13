@@ -6,7 +6,6 @@
 
 - 🌱 Frontend Developer + UI/UX
 - 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
-- 🥅 2021 Goal: Continue To Build My Portfolio
 - ☕ Open to learning more!
 ---
 ### Connect with me:
