@@ -2,10 +2,10 @@
 
 ### Hello World 🍞🌎
 
-![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=abtoast&count_private=true&hide=stars,contribs)
+![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssabenipayo&count_private=true&hide=stars,contribs)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abtoast&layout=compact)](https://github.com/abtoast/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact)](https://github.com/alyssabenipayo/github-readme-stats)
 
 - 🌱 Frontend Developer + UI/UX
 - 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
@@ -16,7 +16,7 @@
 
 ### 💬 About Me
 
-I'm a Developer and Designer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. Fun facts: I draw and write poems. I also like cats and bread.
+I'm a Developer and Designer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. Fun facts: I draw and write creatively. I also like cats.
 
 ---
 
