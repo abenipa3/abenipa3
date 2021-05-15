@@ -1,6 +1,7 @@
 ### Hello World 👋
 
-![Alyssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abtoast&hide=stars,contribs)
+![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=abtoast&count_private=true&hide=stars,contribs)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abtoast&layout=compact)](https://github.com/abtoast/github-readme-stats)
 
