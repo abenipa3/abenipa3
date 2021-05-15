@@ -1,6 +1,6 @@
 ![Alyssa Benipayo](https://user-images.githubusercontent.com/38295612/118351368-79a6a280-b510-11eb-9af3-861f2d1d7b92.png)
 
-# Hello World 🍞🌎
+### Hello World 🍞🌎
 
 ![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=abtoast&count_private=true&hide=stars,contribs)
 
@@ -14,13 +14,13 @@
 
 ---
 
-# 💬 About Me
+### 💬 About Me
 
 I'm a Developer and Designer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. Fun facts: I draw and write poems. I also like cats and bread.
 
 ---
 
-# 🌐 Find me around the web:
+### 🌐 Find me around the web:
 - [Email](mailto:alymaebenipayo@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alyssabenipayo/)
 - [Portfolio](https://alyssabenipayo.github.io/)
