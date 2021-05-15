@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact)](https://github.com/alyssabenipayo/github-readme-stats)
 
-- 🌱 Frontend Developer + UI/UX
+- 🌱 UI/UX + Frontend Developer
 - 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
 - 💻 Currently studying - React, JavaScript
 - ☕ Open to learning more!
