@@ -16,7 +16,7 @@
 
 # 💬 About Me
 
-I'm a Developer and Designer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. Fun facts: I draw and write poems. I also like bread.
+I'm a Developer and Designer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. Fun facts: I draw and write poems. I also like cats and bread.
 
 ---
 
