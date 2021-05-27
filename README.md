@@ -26,6 +26,6 @@ Fun fact: I like cats.
 - [Email](mailto:alymaebenipayo@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alyssabenipayo/)
 - [Portfolio](https://alyssabenipayo.github.io/)
-- [Dribbble](https://dribbble.com/abtoast)
+- [Dribbble](https://dribbble.com/alyssabenipayo)
 
 
