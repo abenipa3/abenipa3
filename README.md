@@ -27,5 +27,6 @@ Fun fact: I like cats.
 - [LinkedIn](https://www.linkedin.com/in/alyssabenipayo/)
 - [Portfolio](https://www.alyssabenipayo.com/)
 - [Dribbble](https://dribbble.com/alyssabenipayo)
+- [Twitter](https://twitter.com/a59772)
 
 
