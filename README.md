@@ -4,7 +4,7 @@
 
 - 🌱 UI/UX + Frontend Developer
 - 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
-- 💻 Currently studying - WebFlow, JavaScript
+- 💻 Currently studying - Webflow, JavaScript
 - ☕ Open to learning more!
 
 ---
