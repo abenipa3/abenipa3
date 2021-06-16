@@ -1,9 +1,16 @@
-### Hello World 🍞🌎
+<div align="center">
+  
+# Hello World 🍞🌎
 
-- 🌱 UI/UX + Frontend Development
-- 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
-- 💻 Currently studying - Webflow, JavaScript
-- ☕ Open to learning more!
+🌱 UI/UX + Frontend Development
+  
+🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
+  
+💻 Currently studying - Webflow, JavaScript
+  
+☕ Open to learning more!
+  
+</div>
 
 ---
 
