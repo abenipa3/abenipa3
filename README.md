@@ -1,5 +1,3 @@
-![Alyssa Benipayo](https://user-images.githubusercontent.com/38295612/118351368-79a6a280-b510-11eb-9af3-861f2d1d7b92.png)
-
 ### Hello World 🍞🌎
 
 - 🌱 UI/UX + Frontend Development
