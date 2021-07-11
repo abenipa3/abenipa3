@@ -33,6 +33,6 @@ Fun fact: I like cats.
 - [Email](mailto:alymaebenipayo@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alyssabenipayo/)
 - [Dribbble](https://dribbble.com/alyssabenipayo)
-- [Portfolio](https://alyssabenipayo.wixsite.com/mysite)
+- [Portfolio](https://alyssa-benipayo.webflow.io/)
 
 
