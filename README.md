@@ -2,7 +2,7 @@
   
 # Hello World 🍞🌎
 
-🌱 UI/UX + Frontend Development
+🌱 Frontend Development + UI/UX
   
 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
   
@@ -16,7 +16,7 @@
 
 ### 💬 About Me
 
-I'm a Designer and Developer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. 
+I'm a Developer and Designer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. 
 
 Fun fact: I like cats.
 
