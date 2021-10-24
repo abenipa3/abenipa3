@@ -6,7 +6,7 @@
   
 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
   
-💻 Currently studying - JavaScript
+💻 Currently studying - JavaScript, ReactJS
   
 ☕ Open to learning more!
   
