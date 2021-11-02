@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello World 🍞🌎
+# Hello World 🌊🌎
 
 🌱 Frontend Development + UI/UX
   
