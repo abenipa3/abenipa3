@@ -16,7 +16,7 @@
 
 ### 💬 About Me
 
-I'm a Developer and Designer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. 
+I'm a UX Engineer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. 
 
 Fun fact: I like cats.
 
