@@ -22,8 +22,8 @@
 ---
 
 ### 🌐 Find me around the web:
+- [Portfolio](https://alyssa-benipayo.webflow.io/)
 - [Email](mailto:alymaebenipayo@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alyssabenipayo/)
-- [Portfolio](https://alyssa-benipayo.webflow.io/)
 
 
