@@ -2,23 +2,15 @@
   
 # Hello World 🌊🌎
 
-🌱 Frontend Development + UI/UX
+🌱 Software Engineer (Frontend Focused)
   
-🧰 Skills: Figma, HTML/HTML5, CSS/SCSS
+🧰 Skills: Figma, HTML/HTML5, CSS/SCSS, Python
   
 💻 Currently studying - JavaScript, ReactJS
   
 ☕ Open to learning more!
   
 </div>
-
----
-
-### 💬 About Me
-
-I'm a UX Engineer at Hack for LA. I know HTML/HTML5, CSS, and Figma. I've also had experience with Python, SQL, and Java. Other than that, I'm constantly learning new skills to add to my toollbox. 
-
-Fun fact: I like cats.
 
 ---
 
@@ -32,7 +24,6 @@ Fun fact: I like cats.
 ### 🌐 Find me around the web:
 - [Email](mailto:alymaebenipayo@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/alyssabenipayo/)
-- [Dribbble](https://dribbble.com/alyssabenipayo)
 - [Portfolio](https://alyssa-benipayo.webflow.io/)
 
 
