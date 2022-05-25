@@ -2,7 +2,7 @@
   
 # Hello World 🌊🌎
 
-🌱 Software Engineer (Frontend Focused)
+🌱 Software Engineer
   
 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS, Python
   
