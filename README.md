@@ -4,7 +4,7 @@
 
 🌱 Software Engineer
   
-🧰 Skills: HTML/HTML5, CSS/SCSS, Python, Java, SQL
+🧰 Skills: HTML/HTML5, CSS/SCSS, Python, SQL, Java
   
 💻 Currently studying: PHP (Laravel) and nand2tetris
   
