@@ -6,7 +6,7 @@
   
 🧰 Skills: Figma, HTML/HTML5, CSS/SCSS, Python
   
-💻 Currently studying - JavaScript, ReactJS
+💻 Currently studying - PHP and nand2tetris
   
 ☕ Open to learning more!
   
