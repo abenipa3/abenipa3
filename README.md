@@ -4,7 +4,7 @@
 
 🌱 Software Engineer
   
-🧰 Skills: Figma, HTML/HTML5, CSS/SCSS, Python
+🧰 Skills: HTML/HTML5, CSS/SCSS, Python, Java, SQL
   
 💻 Currently studying - PHP and nand2tetris
   
