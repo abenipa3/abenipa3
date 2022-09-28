@@ -6,7 +6,7 @@
   
 🧰 Skills: HTML/HTML5, CSS/SCSS, Python, SQL, Java
   
-💻 Currently studying: PHP (Laravel) and nand2tetris
+💻 Currently studying: PHP (PHP 8.0+ and Laravel) and Assembly
   
 ☕ Open to learning more!
   
