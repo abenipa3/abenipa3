@@ -1,27 +1,19 @@
-<div align="center">
-  
-# Hello World 🌊🌎
-
-🌱 Software Engineer
-  
-🧰 Skills: HTML/HTML5, CSS/SCSS, Python, SQL, Java
-  
-💻 Currently studying: PHP (PHP 8.0+ and Laravel) and Assembly
-  
-☕ Open to learning more!
-  
-</div>
+<p align="center">
+<img src="https://media.giphy.com/media/z7TxRm5LBblTWf78nD/giphy.gif" width="150px">
+  <br>
+  <samp>
+    :raised_hands: Hey! I'm a software engineer based in California.
+    <br>I intern at <a href="https://www.nelnet.com/welcome">Nelnet</a> as a Full Stack Engineer, 
+    <br>primarily focused on the backend.
+    <br>Currently studying PHP, Laravel and Assembly :books:<br><br>
+    <img src="https://media.giphy.com/media/l3NnigA3M53CrqwxI6/giphy.gif" width="240px" align="center">
+    <br><br>:globe_with_meridians: Find me around the web: <a href="https://alyssa-benipayo.webflow.io/">Portfolio</a> | <a href="https://www.linkedin.com/in/alyssabenipayo/">LinkedIn</a>
+  </samp>
+</p>
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact&theme=blueberry)](https://github.com/alyssabenipayo/github-readme-stats)
 [![Alyssa's GitHub Streak](https://streak-stats.demolab.com?user=alyssabenipayo&theme=blueberry)](https://git.io/streak-stats)
-
----
-
-### 🌐 Find me around the web:
-- [Portfolio](https://alyssa-benipayo.webflow.io/)
-- [Email](mailto:alymaebenipayo@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/alyssabenipayo/)
 
 
