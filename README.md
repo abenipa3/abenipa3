@@ -14,10 +14,8 @@
 
 ---
 
-![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssabenipayo&count_private=true&hide=stars,contribs)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact)](https://github.com/alyssabenipayo/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alyssabenipayo&theme=blueberry_duo)](https://git.io/streak-stats)
 
 ---
 
