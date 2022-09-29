@@ -15,7 +15,7 @@
 ---
 
 ![Alyssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssabenipayo&show_icons=true&theme=blueberry)
-[![GitHub Streak](https://streak-stats.demolab.com?user=alyssabenipayo&theme=blueberry_duo)](https://git.io/streak-stats)
+[![Alyssa's GitHub Streak](https://streak-stats.demolab.com?user=alyssabenipayo&theme=blueberry)](https://git.io/streak-stats)
 
 ---
 
