@@ -3,7 +3,7 @@
   <br>
   <samp>
     :raised_hands: Hey! I'm a software engineer based in California.
-    <br>I intern at <a href="https://www.nelnet.com/welcome">Nelnet</a> as a Full Stack Engineer, 
+    <br>I intern at <a href="https://www.nelnet.com/welcome">Nelnet</a> as a full stack engineer, 
     <br>primarily focused on the backend.
     <br> Experience in Python, SQL, CSS/SCSS, Java, JavaScript.
     <br>Currently studying PHP 8.0+, Laravel, and Assembly :books:<br><br>
