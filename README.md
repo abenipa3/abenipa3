@@ -13,8 +13,7 @@
 </p>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact&theme=blueberry)](https://github.com/alyssabenipayo/github-readme-stats)
+[![Alyssa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact&theme=blueberry)](https://github.com/alyssabenipayo/github-readme-stats)
 [![Alyssa's GitHub Streak](https://streak-stats.demolab.com?user=alyssabenipayo&theme=blueberry)](https://git.io/streak-stats)
 
 
