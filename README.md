@@ -15,5 +15,8 @@
 ---
 <!-- [![Alyssa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssabenipayo&layout=compact&theme=blueberry)](https://github.com/alyssabenipayo/github-readme-stats) -->
 [![Alyssa's GitHub Streak](https://streak-stats.demolab.com?user=alyssabenipayo&theme=blueberry)](https://git.io/streak-stats)
-
+---
+<details><summary>🌱 2022 Goals (or the remainder of it)</summary>
+We're near the end of the year (October as we speak), but I got inspired by Pifafu's readme and wanted to add goals well. Currenly ongoing, but I would really like to deploy a redesigned portfolio by the end of the year. It's been on my mind for over a year to build one where I combined both my projects and a blog. ✍️
+</details>
 
