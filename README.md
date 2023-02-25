@@ -7,6 +7,8 @@
   <br>
   <br> Experience in PHP/Laravel, Python, SQL, CSS/Sass, Java, Jekyll, JavaScript.
   <br> Currently studying C#, Vue.js, and Laravel  :books:<br><br>
+  <p align="center">
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="220px">
+  </p>
   <br><br>:globe_with_meridians: Find me around the web: <a href="https://alyssabenipayo.netlify.app/">Portfolio</a> | <a href="https://www.linkedin.com/in/alyssabenipayo/">LinkedIn</a>
 </samp>  
