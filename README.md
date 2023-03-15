@@ -6,7 +6,7 @@
   <br> California State University, Los Angeles before pursuing the self-taught route in Engineering.
   <br>
   <br> Experience in PHP/Laravel, Python, SQL, CSS/Sass, Java, Jekyll, JavaScript.
-  <br> Currently studying C#, Vue.js, and Laravel  :books:<br><br>
+  <br> Currently studying Vue.js :books:<br><br>
   <p align="center">
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="220px">
   </p>
