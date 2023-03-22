@@ -1,7 +1,7 @@
 
 <samp>  
 👋 Hello, and welcome to my GitHub! I'm a software engineer based in Southern California.
-  <br>I intern at <a href="https://www.nelnet.com/welcome">Nelnet</a> as a full stack engineer, primarily focused on the backend.
+  <br>I'm a full stack developer at <a href="https://www.nelnet.com/welcome">Nelnet</a>.
   <br> Graduated with dual Bachelor's Degrees in Accounting and Computer Information Systems at
   <br> California State University, Los Angeles before pursuing the self-taught route in Engineering.
   <br>
