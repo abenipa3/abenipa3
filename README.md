@@ -1,6 +1,6 @@
 
 <samp>  
-👋 Hello, and welcome to my GitHub! I'm a software engineer based in Southern California.
+👋 Hello, and welcome to my GitHub!
   <br>I'm a full-stack developer at <a href="https://www.nelnet.com/welcome">Nelnet</a>, primarily focused on the backend.
   <br> Graduated with dual Bachelor's Degrees in Accounting and Computer Information Systems at
   <br> California State University, Los Angeles before pursuing the self-taught route in Engineering.
