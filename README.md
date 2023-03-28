@@ -5,8 +5,8 @@
   <br> Graduated with dual Bachelor's Degrees in Accounting and Computer Information Systems at
   <br> California State University, Los Angeles before pursuing the self-taught route in Engineering.
   <br>
-  <br> Experience in PHP/Laravel, Python, SQL, CSS/Sass, Java, Jekyll, JavaScript.
-  <br> Currently studying Vue.js :books:<br><br>
+  <br> Experience in PHP/Laravel, JavaScript, Python, SQL, CSS/Sass, Java, Jekyll.
+  <br> Currently studying Vue.js and TypeScript :books:<br><br>
   <p align="center">
   <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="220px">
   </p>
