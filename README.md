@@ -2,9 +2,6 @@
 <samp>  
 👋 Hello, and welcome to my GitHub!
   <br>I'm a full-stack developer at <a href="https://www.nelnet.com/welcome">Nelnet</a>.
-  <br> Graduated with dual Bachelor's Degrees in Accounting and Computer Information Systems at
-  <br> California State University, Los Angeles before pursuing the self-taught route in Software Engineering.
-  <br>
   <br> Experience in PHP/Laravel, JavaScript, Python, SQL, CSS/Sass, Java, Jekyll.
   <br> Currently learning Node.js/Express.js, AWS, TypeScript :books:<br><br>
   <p align="center">
