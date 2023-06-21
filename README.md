@@ -1,7 +1,6 @@
 
 <samp>  
-👋 Hello, and welcome to my GitHub!
-  <br>I'm a full-stack developer at <a href="https://www.nelnet.com/welcome">Nelnet</a>.
+👋 Hello, and welcome to my GitHub! I'm a full-stack developer at <a href="https://www.nelnet.com/welcome">Nelnet</a>.
   <br> Experience in PHP/Laravel, JavaScript, Python, SQL, CSS/Sass, Java, Jekyll.
   <br> Currently learning Node.js/Express.js, AWS, TypeScript :books:<br><br>
   <p align="center">
