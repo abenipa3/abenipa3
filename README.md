@@ -8,3 +8,5 @@
   </p>
 :globe_with_meridians: Find me around the web: <a href="https://alyssabenipayo.netlify.app/">Portfolio</a> | <a href="https://www.linkedin.com/in/alyssabenipayo/">LinkedIn</a><br>
 </samp>
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenipa3&size_weight=0.5&count_weight=0.5)
