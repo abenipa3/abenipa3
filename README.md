@@ -1,7 +1,7 @@
 
 <samp>  
 👋 Hello, and welcome to my GitHub! I'm a full-stack developer at Nelnet.
-  <br> 🧠 Experience with JavaScript, PHP/Laravel, Python, SQL, CSS/Sass, Java, Jekyll.
+  <br> 🧠 Experience with Microservices, JavaScript, SQL, PHP/Laravel, Python, CSS/Sass, Java, Jekyll.
   <br> :books: Currently learning k6 (Performance Testing/Load Testing) and Data Structures.<br><br>
 <p align="center">
   <img src="https://media.giphy.com/media/pYNhxuY2Xx528/giphy.gif">
