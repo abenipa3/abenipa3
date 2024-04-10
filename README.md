@@ -2,9 +2,9 @@
 Thanks for checking out my Github! I'm a curious Full Stack Developer at Nelnet Diversified Services with a growing expertise in technologies, including TypeScript, Node.js, AWS, and Postgres. My journey through tech has been one of continuous learning, collaboration, and innovation. Here's a snapshot of my background:
 
 ### 💻 Technical Skills
-- Languages: I have practical experience with JavaScript, PHP, Python, CSS3, HTML5, Java, and XML, and I'm continually working to deepen my knowledge and proficiency.
-- Frameworks/Tools: My toolkit currently includes TypeScript, AWS, Laravel, Node.js, Vue.js, React.js, and SQL, among others. I'm committed to exploring these technologies further and adding more tools to my repertoire.
-- Methodologies: Familiar with Agile and Test-Driven Development (TDD) principles, I understand the importance of adaptability and rigorous testing in creating robust software. I actively seek out new methodologies to enhance my development process.
+- Languages: JavaScript, PHP, Python, CSS3, HTML5, Java
+- Frameworks/Tools: TypeScript, AWS, Laravel, Node.js, Vue.js, React.js, and SQL, among others.
+- Methodologies: Familiar with Agile and Test-Driven Development (TDD) principles.
 - Continuous Learning: Recognizing the fast-paced nature of technology, I dedicate time to expanding my knowledge base by exploring new programming concepts and integrating insights from online tutorials into my personal projects.
 
 ### 🔍 Spotlight Projects
