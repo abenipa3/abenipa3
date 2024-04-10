@@ -13,5 +13,5 @@ Thanks for checking out my Github! I'm a curious Full Stack Developer at Nelnet 
 - [StemStartHer](https://github.com/mehmehmehlol/STEMStartHer): STEMStartHer is web application created for all women who are interested to know more about STEM careers to chat with other women (guides) who have been in the STEM field.
 
 ### 🌐 Find me around the web
-- Portfolio: https://alyssabenipayo.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/alyssabenipayo
+- Portfolio: https://alyssabenipayo.netlify.app/
