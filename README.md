@@ -3,7 +3,7 @@ Thanks for checking out my Github! I'm a curious Full Stack Developer at Nelnet 
 
 ### 💻 Technical Skills
 - Languages: JavaScript, PHP, Python, CSS3, HTML5, Java
-- Frameworks/Tools: TypeScript, AWS, Laravel, Node.js, Vue.js, React.js, and SQL, among others.
+- Frameworks/Tools: TypeScript, AWS (Lambda, SQS, CloudFront), Laravel, Node.js, Vue.js, React.js, and SQL, among others.
 - Methodologies: Familiar with Agile and Test-Driven Development (TDD) principles.
 - Continuous Learning: Recognizing the fast-paced nature of technology, I dedicate time to expanding my knowledge base by exploring new programming concepts and integrating insights from online tutorials into my personal projects.
 
